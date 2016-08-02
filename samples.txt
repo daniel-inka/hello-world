@@ -1,0 +1,43 @@
+= Gosigak01 =
+- Site ID : DEMO
+- AES KEY : s3PWlU5D8oLlFWkCs3PWlU5D8oLlFWkC
+- User ID : user (any?)
+- CID : DEMOgosigak_01
+- Order ID : test
+- Stream URL : http://d28giv01x4pn7o.cloudfront.net/gosigak01/stream.mpd
+- LA URL : http://tokyo.pallycon.com/ri/licenseManager.do
+- Custom Data : WDEMOGTJAlWUFyHxLbY7p71gq1hLL14KZC/wFPnqxv9cSExq7vvLpUzB8T5EBUKX0oLn/gVXOAOnHmEEHld57ZuQRWQ==
+
+= VOCA OT = 
+- Site ID : DEMO
+- User ID : user (any?)
+- CID : DEMOvoca_ot
+- Order ID : test
+- Stream URL : http://d28giv01x4pn7o.cloudfront.net/voca_ot/stream.mpd
+- Custom Data : WDEMOGTJAlWUFyHxLbY7p71gq1ka3154niyZ4dU0NhCfJFrPH+10CMMbsr36Shj8RP3DZqnPbSP7m/35egZYTkV5BgA==
+
+= Tears of Steel (cdn) = 
+- Site ID : DEMO
+- User ID : user (any?)
+- CID : DEMOtears_of_steel_1080p
+- Order ID : test
+- Stream URL : https://d28giv01x4pn7o.cloudfront.net/tears_of_steel_1080p/stream.mpd
+- Custom Data : WDEMOGTJAlWUFyHxLbY7p71gq1pwBhoZRCnZF2XQFKJ+U0ZXwI0yvSIY0nk+sNsM0LtREYjkrrT6+r6+9455wDlMUGnX0EU62WM/E/BXj8+y3a70=
+
+= Tears of Steel (non cdn) =
+- Site ID : 8KAJ
+- User ID : valid-user
+- CID : 8KAJtearsofsteal1080p
+- Order ID : testoid
+- Stream URL : http://pallycon.com/pallycon-contents/tears_of_steel_1080p/stream.mpd
+- Custom Data : W8KAJjimCMbmPlROv7bbMkm7fuC8qQ+osxrPGaMUufCgtc4iIoeyjl+W59gwICINswqi+7xMvGitrMYf05N5t+pMfWLnoHeFBzJhiKkRWKABP6O0=
+
+= Cosmos Laundramot (no cdn) =
+- Site ID : 8KAJ
+- User ID : valid-user
+- CID : 8KAJcosmos-1080p
+- Order ID : testoid
+- Stream URL : http://pallycon.com/pallycon-contents/cosmos-1080p/stream.mpd
+- Custom Data : W8KAJjimCMbmPlROv7bbMkm7fuC8qQ+osxrPGaMUufCgtc4guFSZOjm4hZr/OaxPXFlYVrY1jRvFS6MgJYnImgx3gVzz0f7z593c1+C2lWH4DtEo=
+
+file:///Volumes/Data/Users/daniel/Projects/pallycon-electron/dist/mac/PallyconElectron.app/Contents/Resources/app.asar/webview.html?la_url=http://tokyo.pallycon.com/ri/licenseManager.do&stream_url=http://pallycon.com/pallycon-contents/tears_of_steel_1080p/stream.mpd&custom_data=W8KAJjimCMbmPlROv7bbMkm7fuC8qQ+osxrPGaMUufCgtc4iIoeyjl+W59gwICINswqi+7xMvGitrMYf05N5t+pMfWLnoHeFBzJhiKkRWKABP6O0=
